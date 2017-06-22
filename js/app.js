@@ -1,3 +1,3 @@
 (function() {
-	let myApp = angular.module('compliments', [])
+	let myApp = angular.module('angularComp', [])
 })
