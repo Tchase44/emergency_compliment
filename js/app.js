@@ -1,3 +1,3 @@
-(function() {
-	let myApp = angular.module('compliments', [])
-})
+// (function() {
+// 	let myApp = angular.module('emergencyComp', [])
+// })
