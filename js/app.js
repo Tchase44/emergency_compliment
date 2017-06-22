@@ -1,3 +1,4 @@
-(function() {
-	let myApp = angular.module('angularComp', [])
-})
+
+// (function() {
+// 	let myApp = angular.module('emergencyComp', [])
+// })
